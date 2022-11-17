@@ -4,18 +4,6 @@ Figma design files were provided by Frontend Mentor.
 
 <p align="center"><img src="./public/presentation/preview1.png" alt="image preview of the Audiophile Homepage" align="center"><p>
 
-## Table of contents
-
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Features](#features)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [Styled with](#styled-with)
-  - [What I learned](#what-i-learned)
-- [Author](#author)
-
 ## Overview
 
 ### The challenge
@@ -36,7 +24,7 @@ These are some of the features of my project:
 
 ### Links
 
-- Live Site URL: [Audiophile](https://audiophilewebsite.netlify.app/)
+- Live Site URL: [Audiophile](https://audiophile-shop-site.netlify.app/)
 
 <p align="center"><img src="./public/presentation/preview3.png" alt="image preview of the Audiophile product page" align="center"><p>
 
