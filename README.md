@@ -1,6 +1,5 @@
 <h1 align="center">Audiophile - Vue.js E-commerce Multi-Page Website</h1>
 
-Figma design files were provided by Frontend Mentor.
 
 <p align="center"><img src="./public/presentation/preview1.png" alt="image preview of the Audiophile Homepage" align="center"><p>
 
