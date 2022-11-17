@@ -42,6 +42,4 @@ These are some of the features of my project:
 
 Taking on a rather large project for my introduction to Vue.js turned out to be a good idea. This challenge not only introduced me to the basics of this framework, but also required me to research things in depth and find creative solutions. I have to say I had a lot of fun working with Vue and I'm looking forward to using it in many future projects.
 
-I was also happy to practice my precision in building websites according to someone else's design. The Figma files provided by Frontend Mentor were very detailed, which was super helpful, but also required paying close attention to detail.
-
 <p align="center"><img src="./public/presentation/preview4.png" alt="image preview of the Audiophile checkout form" align="center"><p>
